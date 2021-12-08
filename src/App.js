@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+import React,{useState} from 'react';
 import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import About from './components/about/About';
+import HomePage from './components/HomePage/HomePage';
+import Navbar from './components/Navbar/Navbar';
+import ContactMe from './components/Contact/Contact';
+import Service from './components/Service/Service';
 
 function App() {
+  const [click, setClick] = useState(false);
+  const handleClick = () => setClick(!click);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <div className={`sidebar ${click ? "nav-toggle" : ""}`}>
+          <Navbar click={click} setClick={setClick}/>
+        </div>
+        <div className="nav-icon" onClick={handleClick}>
+            <i className={click ? "fas fa-times" : "fas fa-bars"} />
+        </div>
+        <div className="main-content">
+          <HomePage/>
+          <About/>
+          <Service/>
+          <ContactMe/>
+          
+        </div>
+      </Router>
+    </>
   );
 }
 
