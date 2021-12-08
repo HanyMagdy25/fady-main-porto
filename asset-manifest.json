@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fady-main-porto/static/css/main.a283eb40.chunk.css",
+    "main.css": "/fady-main-porto/static/css/main.efd540d5.chunk.css",
     "main.js": "/fady-main-porto/static/js/main.96827c56.chunk.js",
     "main.js.map": "/fady-main-porto/static/js/main.96827c56.chunk.js.map",
     "runtime-main.js": "/fady-main-porto/static/js/runtime-main.c0c2751a.js",
@@ -8,7 +8,7 @@
     "static/js/2.e9f5560b.chunk.js": "/fady-main-porto/static/js/2.e9f5560b.chunk.js",
     "static/js/2.e9f5560b.chunk.js.map": "/fady-main-porto/static/js/2.e9f5560b.chunk.js.map",
     "index.html": "/fady-main-porto/index.html",
-    "static/css/main.a283eb40.chunk.css.map": "/fady-main-porto/static/css/main.a283eb40.chunk.css.map",
+    "static/css/main.efd540d5.chunk.css.map": "/fady-main-porto/static/css/main.efd540d5.chunk.css.map",
     "static/js/2.e9f5560b.chunk.js.LICENSE.txt": "/fady-main-porto/static/js/2.e9f5560b.chunk.js.LICENSE.txt",
     "static/media/HomePage.css": "/fady-main-porto/static/media/fady.211b82fb.jpg",
     "static/media/Navbar.css": "/fady-main-porto/static/media/icon.6b803d94.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0c2751a.js",
     "static/js/2.e9f5560b.chunk.js",
-    "static/css/main.a283eb40.chunk.css",
+    "static/css/main.efd540d5.chunk.css",
     "static/js/main.96827c56.chunk.js"
   ]
 }
