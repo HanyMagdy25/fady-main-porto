@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-main-fady/static/css/main.a617e044.chunk.css",
-    "main.js": "/portfolio-main-fady/static/js/main.3696faf7.chunk.js",
-    "main.js.map": "/portfolio-main-fady/static/js/main.3696faf7.chunk.js.map",
-    "runtime-main.js": "/portfolio-main-fady/static/js/runtime-main.b63c9d65.js",
-    "runtime-main.js.map": "/portfolio-main-fady/static/js/runtime-main.b63c9d65.js.map",
-    "static/js/2.5b77450a.chunk.js": "/portfolio-main-fady/static/js/2.5b77450a.chunk.js",
-    "static/js/2.5b77450a.chunk.js.map": "/portfolio-main-fady/static/js/2.5b77450a.chunk.js.map",
-    "static/js/3.ed664c88.chunk.js": "/portfolio-main-fady/static/js/3.ed664c88.chunk.js",
-    "static/js/3.ed664c88.chunk.js.map": "/portfolio-main-fady/static/js/3.ed664c88.chunk.js.map",
-    "index.html": "/portfolio-main-fady/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/portfolio-main-fady/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5b77450a.chunk.js.LICENSE.txt": "/portfolio-main-fady/static/js/2.5b77450a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio-main-fady/static/media/logo.6ce24c58.svg"
+    "main.css": "/fady-main-porto/static/css/main.a617e044.chunk.css",
+    "main.js": "/fady-main-porto/static/js/main.3696faf7.chunk.js",
+    "main.js.map": "/fady-main-porto/static/js/main.3696faf7.chunk.js.map",
+    "runtime-main.js": "/fady-main-porto/static/js/runtime-main.ba7e5926.js",
+    "runtime-main.js.map": "/fady-main-porto/static/js/runtime-main.ba7e5926.js.map",
+    "static/js/2.5b77450a.chunk.js": "/fady-main-porto/static/js/2.5b77450a.chunk.js",
+    "static/js/2.5b77450a.chunk.js.map": "/fady-main-porto/static/js/2.5b77450a.chunk.js.map",
+    "static/js/3.ed664c88.chunk.js": "/fady-main-porto/static/js/3.ed664c88.chunk.js",
+    "static/js/3.ed664c88.chunk.js.map": "/fady-main-porto/static/js/3.ed664c88.chunk.js.map",
+    "index.html": "/fady-main-porto/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/fady-main-porto/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5b77450a.chunk.js.LICENSE.txt": "/fady-main-porto/static/js/2.5b77450a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fady-main-porto/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b63c9d65.js",
+    "static/js/runtime-main.ba7e5926.js",
     "static/js/2.5b77450a.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.3696faf7.chunk.js"
