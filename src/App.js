@@ -1,11 +1,12 @@
-import React,{useState} from 'react';
-import './App.css';
-import { BrowserRouter as Router } from 'react-router-dom';
-import About from './components/about/About';
-import HomePage from './components/HomePage/HomePage';
-import Navbar from './components/Navbar/Navbar';
-import ContactMe from './components/Contact/Contact';
-import Service from './components/Service/Service';
+import React, { useState } from "react";
+import "./App.css";
+import { BrowserRouter as Router } from "react-router-dom";
+import About from "./components/about/About";
+import HomePage from "./components/HomePage/HomePage";
+import Navbar from "./components/Navbar/Navbar";
+import ContactMe from "./components/Contact/Contact";
+import Service from "./components/Service/Service";
+import Testimonials from "./components/Testimonials/Testimonials";
 
 function App() {
   const [click, setClick] = useState(false);
@@ -14,16 +15,17 @@ function App() {
     <>
       <Router>
         <div className={`sidebar ${click ? "nav-toggle" : ""}`}>
-          <Navbar click={click} setClick={setClick}/>
+          <Navbar click={click} setClick={setClick} />
         </div>
         <div className="nav-icon" onClick={handleClick}>
-            <i className={click ? "fas fa-times" : "fas fa-bars"} />
+          <i className={click ? "fas fa-times" : "fas fa-bars"} />
         </div>
         <div className="main-content">
-          <HomePage/>
-          <About/>
-          <Service/>
-          <ContactMe/>
+          <HomePage />
+          <About />
+          <Service />
+          <Testimonials />
+          <ContactMe />
           
         </div>
       </Router>

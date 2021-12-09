@@ -29,8 +29,8 @@ const Navbar = ({click,setClick}) => {
       smooth: "easeInOutQuart",
     });
   };
-  const scrollToPortfolio = () => {
-    scroller.scrollTo("contact", {
+  const scrollToTestimonials = () => {
+    scroller.scrollTo("testimonials", {
       duration: 800,
       delay: 0,
       smooth: "easeInOutQuart",
@@ -71,8 +71,8 @@ const Navbar = ({click,setClick}) => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/" className="link-nav" onClick={()=>{handleClick(); scrollToPortfolio()}}>
-                <i className="fab fa-empire"></i> Portfolio
+              <NavLink to="/" className="link-nav" onClick={()=>{handleClick(); scrollToTestimonials()}}>
+                <i className="fab fa-empire"></i> Testimonials
               </NavLink>
             </li>
             <li>

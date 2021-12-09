@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;800&display=swap');
 :root {
   --first-color: #f9f9fc;
   --second-color: #e2e2e2;
@@ -7,13 +7,20 @@
   --line: #cbd3d9;
   --gray: #34495e;
   /* --gray:#009908; */
-  --blue :#37a4fd;
+  --blue :#007aff;
+  --paragraph :#868686;
 
 }
 
 .global-title{
   font-size: 60px;
     font-weight: 800;
+}
+@media screen and (max-width:960px) {
+  .global-title{
+    font-size: 40px;
+      font-weight: 800;
+  }
 }
 
 .first-btn {

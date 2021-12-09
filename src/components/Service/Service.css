@@ -157,7 +157,7 @@
 
 .remove-card {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   /* background: darkgoldenrod; */
   height: 80%;
   width: 5%;

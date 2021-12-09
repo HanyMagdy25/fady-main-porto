@@ -37,6 +37,7 @@ body{
   .nav-toggle{
     transform: translateX(0);
     width: 60%;
+    z-index: 99;
     
   }
   .main-content{
