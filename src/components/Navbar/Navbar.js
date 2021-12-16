@@ -90,7 +90,7 @@ const Navbar = ({click,setClick}) => {
               </div>
               <div className="right-side">
                 <h5>Fady</h5>
-                <a href="https://www.facebook.com/FadyMounirSamy" className="footer-link">example@gmail.com</a>
+                <a href="https://www.linkedin.com/in/fadymounir/" className="footer-link">fadymsamy@gmail.com</a>
               </div>
           </div>
         </footer>
