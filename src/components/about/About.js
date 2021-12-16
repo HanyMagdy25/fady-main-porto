@@ -12,19 +12,13 @@ const About = () => {
               <div className="about-content">
                 <h3>Hi, I'm <span>Fady Samy</span></h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus. Eu leo morbi massa
-                  sem faucibus nulla gravida arcu ante sollicitudin orci nunc
-                  gravida.Excepteur sint occaecat cupidatat non proident, sunt
-                  in culpa qui officia deserunt mollit anim id est laborum. Sed
-                  ut perspiciatis unde omnis iste natur
+                  I'm an IT Professional with 11+ years of experience in Microsoft Systems & Network Infrastructure and Cloud Services.
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus.  sunt
-                  in culpa qui officia deserunt mollit anim id est laborum. Sed
-                  ut perspiciatis unde omnis iste natur
-                </p>
+                 "Specialties:"
+    
+                 "Microsoft Azure, Office 365, Cloud, Azure DevOps (VSTS), Microsoft SharePoint Server, Unified Communications, Microsoft Skype for Business Server, Microsoft Lync Server, Microsoft Teams, Enterprise Voice, Microsoft Exchange Server, Mail Security (Trend Micro), Unified Messaging, SQL Server, IIS, System Center, Virtualization (VMware, Hyper-V) , Network and Security (Cisco & Juniper & Aruba), Firewalls (PaloAlto & Fortigate & Cisco ASA), Backup Solutions (DPM, Veeam), Monitor Solutions (SCOM, PRTG, Veeam One, 24x7), Load Balancing (Kemp & Nginx), Linux, Technical & Customer Support, Troubleshooting, Video Conferencing and IT Services Operation & Delivery (ITIL based)."
+                  </p>
               </div>
               <div className="about-btns">
                 <a href="front.pdf" download="fady.pdf"><button className="first-btn">Download CV</button></a>
