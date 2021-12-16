@@ -37,27 +37,26 @@ const ContactMe = () => {
           <div className="contact-left">
             <h3>Contact info</h3>
             <span>
-              <i className="fas fa-map-marker-alt"></i> Mansoura, Dakahlia,
-              Egypt
+              <i className="fas fa-map-marker-alt"></i> Cairo, Egypt
             </span>
             <span>
-              <i className="fas fa-envelope"></i> fadymounir@gmail.com
+              <i className="fas fa-envelope"></i> fadymsamy@gmail.com
             </span>
             <span>
-              <i className="fas fa-phone-alt"></i> 201112994482
+              <i className="fas fa-phone-alt"></i> +20 1002201240 & +966 541171603
             </span>
             <span>Follow Me</span>
             <div className="contact-links">
               <a href="https://www.facebook.com/FadyMounirSamy">
                 <i className="fab fa-facebook-square"></i>
               </a>
-              <a href="https://www.linkedin.com/in/fadymounir/">
+              <a href="https://www.instagram.com/f.monir/">
                 <i className="fab fa-instagram"></i>
               </a>
               <a href="https://www.linkedin.com/in/fadymounir/">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="https://www.linkedin.com/in/fadymounir/">
+              <a href="https://twitter.com/FadyMSamy">
                 <i className="fab fa-twitter-square"></i>
               </a>
             </div>
