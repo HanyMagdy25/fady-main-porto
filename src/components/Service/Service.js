@@ -37,10 +37,10 @@ const Service = () => {
                 <span className="icon">
                   <i className="fas fa-american-sign-language-interpreting"></i>
                 </span>
-                <h3>Card Title</h3>
+                <h3>IT Management</h3>
               </div>
               <button className="first-btn" onClick={handleFirstDiv}>
-                See More <i className="fas fa-arrow-right"></i>
+                Learn More <i className="fas fa-arrow-right"></i>
               </button>
             </div>
 
@@ -49,10 +49,10 @@ const Service = () => {
                 <span className="icon">
                   <i className="fab fa-windows"></i>
                 </span>
-                <h3>Card Title</h3>
+                <h3>IT Operations</h3>
               </div>
               <button className="first-btn" onClick={handleSecondtDiv}>
-                See More <i className="fas fa-arrow-right"></i>
+                Learn More <i className="fas fa-arrow-right"></i>
               </button>
             </div>
 
@@ -61,10 +61,10 @@ const Service = () => {
                 <span className="icon">
                 <i className="fas fa-project-diagram"></i>
                 </span>
-                <h3>Card Title</h3>
+                <h3>Monitoring</h3>
               </div>
               <button className="first-btn" onClick={handleThirdtDiv}>
-              See More <i className="fas fa-arrow-right"></i>
+              Learn More <i className="fas fa-arrow-right"></i>
               </button>
             </div>
 
@@ -73,10 +73,10 @@ const Service = () => {
                 <span className="icon">
                 <i className="fas fa-database"></i>
                 </span>
-                <h3>Card Title</h3>
+                <h3>Disaster Recovery</h3>
               </div>
               <button className="first-btn" onClick={handleFourthDiv}>
-              See More <i className="fas fa-arrow-right"></i>
+              Learn More <i className="fas fa-arrow-right"></i>
               </button>
             </div>
 
@@ -89,35 +89,15 @@ const Service = () => {
               <div className="first-div-inner">
                 <img src={FirstCardPic} alt="test" />
                 
-                <h1>Motion Graphic Breakdown In Cinema 4D</h1>
+                <h1>IT Management</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus.Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit.
+                  "I have over 10 years of combined experience managing and supporting technology for businesses in several industries.  I believe in empowering your business to rely on your technology in support of your business goals."
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  "To get started, I provide a technology assessment to determine your company’s needs.  I then work with you to plan a strategy to implement the desired solutions within a time frame that is reasonable for your company, on a payment plan that you can afford."
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content
                 </p>
                 <p>
                   Just because we can't get out and about like we normally
