@@ -26,8 +26,7 @@ const Service = () => {
         <div className="service-title">
           <h1 className="global-title">What I Do</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-            ipsum sit nibh amet egestas tellus.
+            These are our works. Feel free to check them out.
           </p>
         </div>
         <div className="cards">
