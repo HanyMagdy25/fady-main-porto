@@ -25,8 +25,9 @@ const HomePage = () => {
                     <div className="profile-picture-background"></div>
                 </div>
                 <div className="home-title">
-                    <h1>Fady Samy</h1>
-                    <p>I'm an IT Professional with 11+ years of experience in Microsoft Systems & Network Infrastructure and Cloud Services.</p>
+                    <h1>"Hi! I'm Fady"</h1>
+                    <p>Infrastructure Consultant</p>
+                    <p>A Passionate Infrastructure Consultant with 11+ years of experience in Microsoft infrastructure, cloud services, network, and security.</p>
                 </div>
                 <div className="home-links">
                     <a href="https://www.facebook.com/FadyMounirSamy">
