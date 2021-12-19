@@ -96,19 +96,10 @@ const Service = () => {
                   "To get started, I provide a technology assessment to determine your company’s needs.  I then work with you to plan a strategy to implement the desired solutions within a time frame that is reasonable for your company, on a payment plan that you can afford."
                 </p>
                 <p>
-                  Test content
+                  Test content 1 
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 2
                 </p>
                 
               </div>
@@ -127,47 +118,18 @@ const Service = () => {
               <div className="first-div-inner">
                 <img src={SecondCardPic} alt="test" />
                 
-                <h1>Motion Graphic Breakdown In Cinema 4D</h1>
+                <h1>IT Operations</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus.Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit.
+                  We provide a full range of managed services for your on-premises and cloud infrastructure and applications. We design and implement end-to-end solutions with the right KPIs.
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 1
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                 Test content 2
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                Test content 3
                 </p>
                 
               </div>
@@ -186,47 +148,18 @@ const Service = () => {
               <div className="first-div-inner">
                 <img src={ThirdCardPic} alt="test" />
                 
-                <h1>Motion Graphic Breakdown In Cinema 4D</h1>
+                <h1>IT Monitoring</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus.Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit.
+                  "We design and implement end-to-end monitoring solutions with the right KPIs for your business case. We monitor the availability, network connectivity, performance and security of your infrastructure and applications 24/7 with free opensource tools."
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 1
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 2
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 3
                 </p>
                 
               </div>
@@ -247,45 +180,16 @@ const Service = () => {
                 
                 <h1>Motion Graphic Breakdown In Cinema 4D</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Mauris ipsum sit nibh amet egestas tellus.Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit.
+                  Planning for disaster recovery and data protection is an essential part of your business continuity plan.
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                 Test content 1
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 2
                 </p>
                 <p>
-                  Just because we can't get out and about like we normally
-                  would, doesn’t mean we have to taking pictures. There’s still
-                  plenty you can do, provided you're prepared to use some
-                  imagination. Here are a few ideas to keep you shooting until
-                  normal life resumes. Most photographers love to shoot the
-                  unusual, and you don’t get much more unusual than These
-                  Unprecedented Times. Right now everything counts as out of the
-                  ordinary. There are a number of remarkable things about these
-                  lockdown days that are worth photographing now we can remember
-                  them when it is all over.
+                  Test content 3
                 </p>
                 
               </div>
